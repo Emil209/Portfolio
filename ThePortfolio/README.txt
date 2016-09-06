@@ -10,7 +10,7 @@ In the "StaticEdgeScript" file is a description on how you can use the algorithm
 You can contact me by email at Emil209@hotmail.com
 Or you can reach me on my cellphone at 0734323558.
 
-The game:
+The game (for windows):
 
 To play the game, extract the "ParanoiaGame.rar" file, then run the "TheGame.exe" file located in the "ParanoiaGame" folder
 
