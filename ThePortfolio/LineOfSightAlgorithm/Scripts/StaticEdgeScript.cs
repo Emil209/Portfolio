@@ -65,7 +65,7 @@ using System;
 /// 	
 /// 	FEATURES THAT WILL COME
 /// 	1: The algorithm have limited prefab support right now, which makes it impractical to use in larger levels. I will work on allowing better prefab support to enable easier use of the algorithm.
-/// 	2: Doors do not "slide" open, they kinda teleports away. This will be addressed.
+/// 	2: Doors do not "slide" open, they kinda teleports away. This will be fixed.
 /// 	
 /// 
 /// 	CONTACT INFORMATION

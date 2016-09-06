@@ -1,8 +1,18 @@
 Emil Almkvist's portfolio, last edited 2016-06-19
 
+
+The algorithm:
+
+If you are interested in seeing code I have written, look inside the "LineOfSightAlgorithm" folder. The "Scripts" folder contains C# scripts of the top-down line of sight algorithm I developed for the game. 
+There is also a powerpoint presentation inside the "LineOfSightAlgorithm" folder with an explenation on how the algorithm works. A png-file with an UML representation of the scripts and their relations to eachother is also present in the folder.
+In the "StaticEdgeScript" file is a description on how you can use the algorithm in your unity project!
+
+You can contact me by email at Emil209@hotmail.com
+Or you can reach me on my cellphone at 0734323558.
+
 The game:
 
-To play the game, run the "TheGame.exe" file located in the "ParanoiaGame" folder
+To play the game, extract the "ParanoiaGame.rar" file, then run the "TheGame.exe" file located in the "ParanoiaGame" folder
 
 The green bar in the center-bottom of the screen represent your healthbar. Once it reach 0, you lose. 
 You also have an orange "paranoia-bar" next to your healthbar. Your character gets more and more paranoid if he is forced to use abilities, or when enemies are nearby. Once your character's paranoia meter have reached 100, your character can barely focus on reality, preventing him from using anymore abilities, damaging him slightly overtime, and moving 40% slower.
@@ -31,12 +41,3 @@ The end result however was more like a demo to a standard "shoot-ém-up" game rat
 The game was made in Unity. All assets (except sound assets) were made from scratch.
 
 My role in the project was to implement the Enemy AI, develop a line of sight algorithm and designing most of the level. I was also considered the unofficial project manager for my acts within the team.
-
-The algorithm:
-
-If you are interested in seeing code I have produced, look inside the "Scripts" folder inside the "LineOfSightAlgorithm" folder. The "Scripts" folder contains C# scripts of the top-down line of sight algorithm I developed for the game. 
-There is also a powerpoint presentation inside the "LineOfSightAlgorithm" folder with an explenation on how the algorithm works. A png-file with an UML representation of the scripts and their relations to eachother is also present in the folder.
-In the "StaticEdgeScript" file is a description on how you can use the algorithm in your unity project!
-
-You can contact me by email at Emil209@hotmail.com
-Or you can reach me on my cellphone at 0734323558.
